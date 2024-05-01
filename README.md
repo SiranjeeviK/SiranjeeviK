@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Siranjeevi K and I'm a Student, from Coimbatore</h2>
+<h2 align="left">Hi 👋! My name is Siranjeevi K and I'm a Student and a freelancer, from Coimbatore</h2>
 
 ###
 
