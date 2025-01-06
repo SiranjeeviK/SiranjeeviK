@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Siranjeevi K and I'm a Pre-Final Year student and a full stack developer, from Coimbatore</h1>
+<h1 align="left">Hi 👋! My name is Siranjeevi K and I'm a Pre-Final Year student and Full stack developer, from Coimbatore.</h1>
 
 ###
 
