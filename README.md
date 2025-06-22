@@ -1,4 +1,10 @@
-<h1 align="left">Hi 👋! My name is Siranjeevi K and I'm a Pre-Final Year student and Full stack developer, from Coimbatore.</h1>
+<h1 align="left">Hi 👋, I'm Siranjeevi K!</h1>
+<h3 align="left">I'm a final year student, Generative AI enthusiast, and full-stack developer from Coimbatore.</h3>
+
+<p align="left">
+  🔗 <a href="./Resume/Siranjeevi_K_Resume_June_2025.pdf" target="_blank">View My Resume</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🌐 <a href="https://www.siranjeevi.com" target="_blank">Visit My Portfolio</a>
+</p>
 
 ###
 
@@ -31,9 +37,15 @@
   <a href="https://x.com/Siranjeevi_K_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="mailto:siranjeevi2004k@gmail.com" target="_blank">
+  <a href="mailto:contact@siranjeevi.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.siranjeevi.com" target="_blank">
+    <img src="./assets/website.svg" width="52" height="40" alt="Portfolio Website"  />
   </a>
+  <a href="https://stackoverflow.com/users/15608877/siranjeevi-k" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+
 </div>
 
 ###
